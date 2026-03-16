@@ -2,7 +2,7 @@
 
 **`Front-end Engineer`**  **`Backend-end Engineer`**  **`Full-stack Developer`**  **`Cloud Engineer wannabe`**
 
-- 🤓 Mid level software engineer with 5 years of experience focused on building web applications for multiple clients using different modern web technologies
+- 🤓 Software engineer with 7+ years of experience focused on building web applications for multiple clients using different modern web technologies
 - ⭐️ Focused on **`React/NextJS`** and **`Node`**
 - 📖 Currently building knowledge and hands-on experience on DevOps and AWS to be a Master Cloud Enginner someday
 - 💸 Aims to build profitable and sticky SaaS projects
